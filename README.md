@@ -11,7 +11,7 @@ The codebase is written in node.js. Hence, for this particular file to run,
 1. Download or clone this repository
 2. From the command line, type `node index.js <Category> <limit>`
 
-Possible values of `category` passed as an argument\
+Possible values of `category` passed as an argument
 
 1. Animals
 2. Anime
